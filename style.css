@@ -3,3 +3,13 @@ margin: 0;
 padding: 0;
 background-color: blueviolet;
 }
+header, footer{
+width: 100%;
+background-color: blueviolet;
+}
+header{
+height: 15vh;
+}
+footer{
+    height: 5vh;
+}
